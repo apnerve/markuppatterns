@@ -1,4 +1,4 @@
-markuppatterns
+Markuppatterns
 ==============
 
-Markup and style pattern library
+A community powered Markup and style pattern library.
